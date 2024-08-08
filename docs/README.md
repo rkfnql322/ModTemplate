@@ -14,6 +14,8 @@
     <a href="https://github.com/DartRuffian/MOD_REPO/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-APL ND-red?style=flat-square" alt="MOD_TITLE License">
     </a>
+    <img src="https://img.shields.io/github/actions/workflow/status/DartRuffian/MOD_REPO/Hemtt.yml?style=flat-square&label=Build
+    " alt="Build Status">
 </p>
 
 <p align="center">
@@ -28,8 +30,6 @@ Delete this section after the project has been initially set up:
 3. Find and replace all instances of `MOD_PREFIX` with the mod's prefix.
    - This should be all lowercase.
 4. After the initial Steam upload, find and replace all instances of `MOD_ID` with the mod's Steam Workshop id.
-
-[![Arma](https://github.com/DartRuffian/MOD_REPO/actions/workflows/Hemtt.yml/badge.svg)](https://github.com/DartRuffian/MOD_REPO/actions/workflows/Hemtt.yml) [![BOM Check](https://github.com/DartRuffian/MOD_REPO/actions/workflows/bom-check.yml/badge.svg?branch=master)](https://github.com/DartRuffian/MOD_REPO/actions/workflows/bom-check.yml)
 
 **MOD_TITLE** (ACRONYM) aims to...
 
