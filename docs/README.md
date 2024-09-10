@@ -14,8 +14,7 @@
     <a href="https://github.com/DartRuffian/MOD_REPO/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-APL ND-red?style=flat-square" alt="MOD_TITLE License">
     </a>
-    <img src="https://img.shields.io/github/actions/workflow/status/DartRuffian/MOD_REPO/Hemtt.yml?style=flat-square&label=Build
-    " alt="Build Status">
+    <img src="https://img.shields.io/github/actions/workflow/status/DartRuffian/MOD_REPO/hemtt.yml?style=flat-square&label=Build" alt="Build Status">
 </p>
 
 <p align="center">
