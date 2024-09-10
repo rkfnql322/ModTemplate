@@ -169,6 +169,8 @@ def main():
             sqf_list.append(os.path.join(root, filename))
           for filename in fnmatch.filter(filenames, '*.rvmat'):
             sqf_list.append(os.path.join(root, filename))
+          for filename in fnmatch.filter(filenames, '*.cfg'):
+            sqf_list.append(os.path.join(root, filename))
 
     for filename in sqf_list:
         bad_count = bad_count + check_config_style(filename)
