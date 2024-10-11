@@ -1,7 +1,7 @@
 #define MAINPREFIX z
 #define PREFIX MOD_PREFIX
 #define MOD_NAME MOD_TITLE
-#define AUTHOR "DartRuffian"
+#define AUTHOR "Dart"
 
 #define REQUIRED_VERSION 2.16
 #define REQUIRED_CBA_VERSION {3,17,0}

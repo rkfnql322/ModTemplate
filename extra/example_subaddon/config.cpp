@@ -3,6 +3,7 @@
 class CfgPatches {
     class SUBADDON {
         author = AUTHOR;
+        authors[] = {"Dart"};
         name = COMPONENT_NAME;
         addonRootClass = QUOTE(ADDON);
         requiredVersion = REQUIRED_VERSION;
