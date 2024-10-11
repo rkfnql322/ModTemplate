@@ -28,9 +28,11 @@ Delete this section after the project has been initially set up:
    - This should be the name of the repository on GitHub.
 3. Find and replace all instances of `MOD_PREFIX` with the mod's prefix.
    - This should be all lowercase.
-4. After the initial Steam upload, find and replace all instances of `MOD_ID` with the mod's Steam Workshop id.
+4. Find and replace all instances of `MOD_ACRONYM` with the mod's acronym.
+   - This should be all uppercase.
+5. After the initial Steam upload, find and replace all instances of `MOD_ID` with the mod's Steam Workshop id.
 
-**MOD_TITLE** (ACRONYM) aims to...
+**MOD_TITLE** (MOD_ACRONYM) aims to...
 
 The project is entirely **open-source** and any contributions to fix other mods are welcome.
 
