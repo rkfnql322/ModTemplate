@@ -2,20 +2,21 @@
 
 <h1 align="center">MOD_TITLE</h1>
 <p align="center">
-    <a href="https://github.com/DartRuffian/MOD_REPO/releases/latest">
+    <a href="https://github.com/DartsArmaMods/MOD_REPO/releases/latest">
         <img src="https://img.shields.io/badge/Version-0.0.0.0-blue?style=flat-square" alt="MOD_TITLE Version">
     </a>
-    <a href="https://github.com/DartRuffian/MOD_REPO/issues">
-        <img src="https://img.shields.io/github/issues-raw/DartRuffian/MOD_REPO.svg?style=flat-square&label=Issues" alt="MOD_TITLE Issues">
+    <a href="https://github.com/DartsArmaMods/MOD_REPO/issues">
+        <img src="https://img.shields.io/github/issues-raw/DartsArmaMods/MOD_REPO.svg?style=flat-square&label=Issues" alt="MOD_TITLE Issues">
     </a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=MOD_ID">
         <img src="https://img.shields.io/steam/downloads/MOD_ID.svg?style=flat-square&label=Downloads" alt="MOD_TITLE Downloads">
     </a>
-    <a href="https://github.com/DartRuffian/MOD_REPO/blob/master/LICENSE">
+    <a href="https://github.com/DartsArmaMods/MOD_REPO/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/License-APL ND-red?style=flat-square" alt="MOD_TITLE License">
     </a>
-    <img src="https://img.shields.io/github/actions/workflow/status/DartRuffian/MOD_REPO/Hemtt.yml?style=flat-square&label=Build
-    " alt="Build Status">
+    <br>
+    <img src="https://img.shields.io/github/actions/workflow/status/DartsArmaMods/MOD_REPO/hemtt.yml?style=flat-square&label=HEMTT" alt="HEMTT">
+    <img src="https://img.shields.io/github/actions/workflow/status/DartsArmaMods/MOD_REPO/arma.yml?style=flat-square&label=Validate" alt="Validate">
 </p>
 
 <p align="center">
