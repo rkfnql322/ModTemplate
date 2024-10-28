@@ -28,7 +28,7 @@
 
 #undef PREP
 #ifdef DISABLE_COMPILE_CACHE
-    #define LINKFUNC(x) {_this call FUNC(x)}
+    #define LINKFUNC(x) {call FUNC(x)}
     #define PREP(fncName) FUNC(fncName) = compile preprocessFileLineNumbers QPATHTOF(functions\DOUBLES(fnc,fncName).sqf)
     #define PREP_RECOMPILE_START    if (isNil "MOD_PREFIX_fnc_recompile") then {MOD_PREFIX_recompiles = []; MOD_PREFIX_fnc_recompile = {{call _x} forEach MOD_PREFIX_recompiles;}}; private _recomp = {
     #define PREP_RECOMPILE_END      }; call _recomp; MOD_PREFIX_recompiles pushBack _recomp;
