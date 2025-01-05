@@ -1,6 +1,6 @@
-name = "MOD_TITLE"
-author = "DartRuffian"
-prefix = "MOD_PREFIX"
+name = "PRC-96K Custom Radio"
+author = "Sakyamoney"
+prefix = "SAKY_P96K"
 mainprefix = "z"
 
 [version]
@@ -19,4 +19,4 @@ include = [
 exclude = []
 
 [properties]
-author = "DartRuffian"
+author = "Sakyamoney"
